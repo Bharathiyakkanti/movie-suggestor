@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data files (too large for git)
+data/*.csv
+data/*.zip
+
+# OS
+.DS_Store
+Thumbs.db
